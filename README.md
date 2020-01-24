@@ -1,2 +1,2 @@
-# pandas-proyect
+# pandas-project
 ataques de tiburones
