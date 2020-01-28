@@ -2,6 +2,8 @@
 
 ataques de tiburones
 ![Tiburon](27_mapa_tiburones.jpg)
+
+Se nos pide la limpieza de un archivo csv y sacar una conclusion final
 ## importar archivo csv
 data=pd.read_csv("GSAF5.csv",engine="python")
 
