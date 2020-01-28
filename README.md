@@ -1,7 +1,7 @@
 # pandas-project
 
 ataques de tiburones
-
+![Tiburon](27_mapa_tiburones.jpg)
 ## importar archivo csv
 data=pd.read_csv("GSAF5.csv",engine="python")
 
